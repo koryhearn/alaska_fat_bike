@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  coordinates: MyString
+  description: MyString
+  region: MyString
+
+two:
+  title: MyString
+  coordinates: MyString
+  description: MyString
+  region: MyString
